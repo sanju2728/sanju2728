@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.google.com/maps/search/?api=1&query=Kasaragod,India">
-    <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=38C2FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello%2C+I+am+A+Sanjana+B+Bhat;+also+known+as+Sanjana+Bhat;hailing+from+Kasaragod%2C+India.+">
+    <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=38C2FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello%2C+myself+A+Sanjana+B+Bhat;+also+known+as+Sanjana+Bhat;hailing+from+Kasaragod%2C+India.+">
     </a>
     <br>
     <h2> Connect with me through </h2>
